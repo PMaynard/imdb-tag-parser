@@ -1,0 +1,4 @@
+== IMDB Tag Parser ==
+Takes IMDB tag lines and parses them.
+
+Download the IMDB tag list from http://www.imdb.com/interfaces (ftp://ftp.fu-berlin.de/pub/misc/movies/database/taglines.list.gz)
