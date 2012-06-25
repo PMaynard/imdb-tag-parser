@@ -15,6 +15,7 @@ Function to read a file
 
 void LoadFile(char* file);
 void AddFilm(char* film);
+void AddTag(char* tag);
 
 int main(int argc, char** argv)
 {
