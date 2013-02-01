@@ -29,20 +29,19 @@ examples...
 
 Formatting submissions: The basic syntax is..
 
-    TAG
-    # title
+    \# title
             tagline
 
 An exapmle...
 
-    # Jaws (1975)
+    \# Jaws (1975)
             She was the first
 
 A <TAB> is used to mark a separate tagline, so if a movie has say
 2 taglines on the original poster or direct to video blurb, they can
 both be added, e.g.
 
-    # Above the Rim (1994)
+    \# Above the Rim (1994)
             The hardest part of winning is choosing sides.
             Some games you play.  Some games play you.
 
