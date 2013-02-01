@@ -12,7 +12,7 @@ Simply use the Makefile.
 ### Usage
 Run the program with a filename, which contains the taglines, e.g.
 
-   ./imdb-tags tagsExample
+    ./imdb-tags tagsExample
 
 A tagline is a short description or comment on a movie that is 
 displayed on movie posters (or direct to video covers etc) to capture
