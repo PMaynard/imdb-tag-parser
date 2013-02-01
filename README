@@ -1,14 +1,15 @@
-== IMDB Tag Parser ==
+IMDB Tag Parser
+===============
 Takes IMDB tag lines and parses them.
 
 Still in development, so all it does is print the movie name and any tag lines.
 
 Download the IMDB tag list from http://www.imdb.com/interfaces (ftp://ftp.fu-berlin.de/pub/misc/movies/database/taglines.list.gz)
 
-== Complie ==
+### Complie
 Simply use the Makefile. 
 
-== Usage ==
+### Usage
 Run the program with a filename, which contains the taglines, e.g.
 
 ./imdb-tags tagsExample
