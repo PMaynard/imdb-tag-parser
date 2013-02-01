@@ -32,7 +32,7 @@ Formatting submissions: The basic syntax is..
     # title
         tagline
 
-An exapmle...
+An example...
 
     # Jaws (1975)
         She was the first
