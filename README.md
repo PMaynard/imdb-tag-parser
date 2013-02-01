@@ -20,32 +20,29 @@ the essence of the movie, and ultimetely make you watch the movie.
 
 examples...
 
-Jaws (1975) 
-     She was the first 
-Aliens (1986) 
-     This time it's war 
-Outbreak (1995) 
-     Try to remain calm 
+    Jaws (1975) 
+         She was the first 
+    Aliens (1986) 
+         This time it's war 
+    Outbreak (1995) 
+         Try to remain calm 
 
 Formatting submissions: The basic syntax is..
 
-TAG
-# title
-        tagline
+    TAG
+    # title
+            tagline
 
 An exapmle...
 
-TAG
-# Jaws (1975)
-        She was the first
+    # Jaws (1975)
+            She was the first
 
 A <TAB> is used to mark a separate tagline, so if a movie has say
 2 taglines on the original poster or direct to video blurb, they can
 both be added, e.g.
 
-TAG
-
-# Above the Rim (1994)
-        The hardest part of winning is choosing sides.
-        Some games you play.  Some games play you.
+    # Above the Rim (1994)
+            The hardest part of winning is choosing sides.
+            Some games you play.  Some games play you.
 
